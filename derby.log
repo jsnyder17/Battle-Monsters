@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 28 17:37:40 EDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0179-b4e9-540b-00000f813e90 
+on database directory C:\Users\jawsh\Documents\BattleMonsters.db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/jawsh/Graphics%20Workspace/CS320_Derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\jawsh\Graphics Workspace\Battle Monsters
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
